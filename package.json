@@ -1,0 +1,26 @@
+{
+  "name": "hot-csv",
+  "version": "0.0.0",
+  "description": "live reload csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gastrodia/hot-csv.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "gastrodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastrodia/hot-csv/issues"
+  },
+  "homepage": "https://github.com/gastrodia/hot-csv",
+  "dependencies": {
+    "fast-csv": "^0.5.4",
+    "node-sleep": "0.0.0"
+  }
+}
