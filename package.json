@@ -1,6 +1,6 @@
 {
   "name": "hot-csv",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "live reload csv",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/gastrodia/hot-csv",
   "dependencies": {
-    "fast-csv": "^0.5.4",
-    "node-sleep": "0.0.0"
+    "fast-csv": "^0.5.4"
   }
 }
